@@ -1,0 +1,12 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+_ReSharper.Tank-csharp/
+*.csproj
+*.unityproj
+*.sln
+.DS_Store
+*.pidb
+*.userprefs
+*.user
+*.suo

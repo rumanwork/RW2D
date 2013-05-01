@@ -1,0 +1,28 @@
+{"frames": {
+
+"sprite.png":
+{
+	"frame": {"x":596,"y":4,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300}
+},
+"sprite2.png":
+{
+	"frame": {"x":4,"y":4,"w":588,"h":533},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":588,"h":533},
+	"sourceSize": {"w":588,"h":533}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "SpriteSheet-hd.png",
+	"format": "RGBA8888",
+	"size": {"w":850,"h":541},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:bb4fa335db4d73c10167902c0fa87736$"
+}
+}

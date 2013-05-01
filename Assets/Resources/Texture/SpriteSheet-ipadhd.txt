@@ -1,0 +1,28 @@
+{"frames": {
+
+"sprite.png":
+{
+	"frame": {"x":1183,"y":4,"w":500,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":500,"h":600},
+	"sourceSize": {"w":500,"h":600}
+},
+"sprite2.png":
+{
+	"frame": {"x":4,"y":4,"w":1175,"h":1065},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1175,"h":1065},
+	"sourceSize": {"w":1175,"h":1065}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "SpriteSheet-ipadhd.png",
+	"format": "RGBA8888",
+	"size": {"w":1687,"h":1073},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:62a0512dde630489ace81f4f341a1cc0$"
+}
+}
